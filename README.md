@@ -15,9 +15,9 @@ SEGUNDO PASSO:
 
 - Formatar o header da página
 - adicionar o título e menu da página
-- 
+
   ![header](https://github.com/davimarinho01/Portfolioexemple/assets/148814974/ef6c5d08-19e1-4e23-a7bf-081efbc856b1)
 
 - Editar o style do header
-- 
+
  ![style header](https://github.com/davimarinho01/Portfolioexemple/assets/148814974/afcf252e-1d26-472b-a52b-fbed22f2f339)
