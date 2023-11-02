@@ -37,5 +37,6 @@ QUARTO PASSO:
 
 - Adicionar a ficha de clientes fictícia, com suas respectivas logos.
 
-![Captura de tela 2023-11-01 211422](https://github.com/davimarinho01/Portfolioexemple/assets/148814974/ff5378f3-dab0-4732-8a7b-33e693bb8be9)
+![Captura de tela 2023-11-01 211952](https://github.com/davimarinho01/Portfolioexemple/assets/148814974/92efbfdf-7414-431c-a6e6-e41180bdf266)
+
 
