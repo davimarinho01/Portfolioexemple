@@ -24,3 +24,18 @@ SEGUNDO PASSO:
 - Editar o style do header
 
  ![style header](https://github.com/davimarinho01/Portfolioexemple/assets/148814974/afcf252e-1d26-472b-a52b-fbed22f2f339)
+
+TERCEIRO PASSO:
+
+- Adicionar a imagem lateral em conjunto com o texto de apresentação
+
+
+  ![imagem e texto de apresentação ](https://github.com/davimarinho01/Portfolioexemple/assets/148814974/2dad8828-885b-41a2-b6f3-a035882e7748)
+
+
+QUARTO PASSO:
+
+- Adicionar a ficha de clientes fictícia, com suas respectivas logos.
+
+![Captura de tela 2023-11-01 211422](https://github.com/davimarinho01/Portfolioexemple/assets/148814974/ff5378f3-dab0-4732-8a7b-33e693bb8be9)
+
